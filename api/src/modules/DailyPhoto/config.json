@@ -1,0 +1,6 @@
+{
+    "name": "DailyPhoto",
+    "description": "Have a daily photo",
+    "cron": "0 2 * * *",
+    "localised": false
+  }

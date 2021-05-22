@@ -1,0 +1,8 @@
+{
+  "_id": "5f46dfe7b83e6350205b07c7",
+  "name": "BBCNews",
+  "description": "Headlines taken from BBC News",
+  "cron": "0 * * * *",
+  "localised": false,
+  "feed": "news"
+}

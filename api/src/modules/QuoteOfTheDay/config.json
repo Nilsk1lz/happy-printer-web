@@ -1,0 +1,6 @@
+{
+  "name": "QuoteOfTheDay",
+  "description": "Get a quote for the day",
+  "cron": "0 0 * * *",
+  "localised": false
+}

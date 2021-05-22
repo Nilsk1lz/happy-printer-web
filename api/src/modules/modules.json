@@ -1,0 +1,64 @@
+[
+  {
+    "_id": "5f46dfe7b83e6350205b07c7",
+    "name": "BBC News",
+    "path": "BBCNews",
+    "description": "News Headlines delivered daily at the time of your choice.",
+    "cron": "0 * * * *",
+    "cron_description": "Published every hour"
+  },
+  {
+    "_id": "5f46dfe7b83e6350205b07c8",
+    "name": "Daily Sudoku",
+    "path": "DailySudoku",
+    "description": "The ideal commuting companion. Select a difficulty level to give your brain a workout.",
+    "cron": "0 0 * * *",
+    "cron_description": "Published every day",
+    "options": [
+      {
+        "value": "easy",
+        "label": "Easy"
+      },
+      {
+        "value": "medium",
+        "label": "Medium"
+      },
+      {
+        "value": "hard",
+        "label": "Hard"
+      },
+      {
+        "value": "easy",
+        "label": "Easy"
+      },
+      {
+        "value": "very-hard",
+        "label": "Very Hard"
+      },
+      {
+        "value": "insane",
+        "label": "Insane"
+      },
+      {
+        "value": "inhuman",
+        "label": "Inhuman"
+      }
+    ]
+  },
+  {
+    "_id": "5f46dfe7b83e6350205b07c9",
+    "name": "Quote of the day",
+    "path": "QuoteOfTheDay",
+    "description": "A new quote every day, delivered to your printer.",
+    "cron": "0 0 * * *",
+    "cron_description": "Published every day"
+  },
+  {
+    "_id": "5f46dfe7b83e6350205b07d0",
+    "name": "Word of the day",
+    "path": "DailyWord",
+    "description": "A new word every day, delivered to your printer.",
+    "cron": "3 0 * * *",
+    "cron_description": "Published every day"
+  }
+]

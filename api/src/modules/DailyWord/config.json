@@ -1,0 +1,6 @@
+{
+  "name": "DailyWord",
+  "description": "Have a daily word",
+  "cron": "0 3 * * *",
+  "localised": false
+}

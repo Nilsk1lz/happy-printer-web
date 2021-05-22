@@ -1,0 +1,7 @@
+{
+  "name": "FontTest",
+  "description": "A Test print for different font syles",
+  "cron": "0 0 * * *",
+  "localised": false,
+  "feed": "news"
+}

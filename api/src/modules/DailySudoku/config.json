@@ -1,0 +1,6 @@
+{
+    "name": "DailySudoku",
+    "description": "Have a daily puzzle",
+    "cron": "0 1 * * *",
+    "localised": false
+  }
